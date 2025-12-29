@@ -1,0 +1,19 @@
+# ===== Backend =====
+demo-java/target/
+demo-java/.mvn/
+demo-java/*.log
+
+# ===== Frontend =====
+todo-frontend/node_modules/
+todo-frontend/build/
+todo-frontend/dist/
+
+# ===== OS / IDE =====
+.DS_Store
+.idea/
+.vscode/
+*.iml
+
+# ===== Env =====
+.env
+
